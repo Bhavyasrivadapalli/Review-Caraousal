@@ -1,0 +1,31 @@
+.container{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 100px;
+}
+.underline {
+    /* flex-grow: 0; */
+    border-bottom: 2px solid green;
+    margin-left: 600px;
+    margin-right: 600px;
+    margin-bottom: 30px;
+}
+#i1{
+
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    margin-top: 10px;
+    
+}
+.img-container{
+    width: 400px;
+    height: 450px;
+    margin: auto;
+    border: solid 2px rgb(196, 190, 190);
+
+}
+i{
+    display: block;
+}
